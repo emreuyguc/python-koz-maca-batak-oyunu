@@ -1,8 +1,8 @@
 # Koz-Maca-Batak-Oyunu_Python3
 
-Konsol Ekranı Text Bataj oyunu 
+Konsol Ekranı Text Batak oyunu 
  internet kesintisi esnasında oluşturuldu , öylesine bir anda yazılmıştır kodlardaki düzensizliğin sebebi budur kusura bakmayın :)
- ufak bir entegre ile guiye çevrilebilir.
+ ufak bir entegre ile görsel arayüze çevirilebilir.
  
  
  
